@@ -1,6 +1,6 @@
 # Hi, I'm Anosh Taraporevala 👋
 
-🎓 Computer Science graduate with a **3.9 GPA** from California State University, San Diego  
+🎓 Computer Science graduate from San Diego State University
 💻 Software Engineer focused on **full stack development and scalable applications**  
 🚀 Building projects with **JavaScript, React, Node.js, Express, Next.js, and PostgreSQL**  
 
