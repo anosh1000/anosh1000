@@ -34,6 +34,6 @@ Node.js • Express.js • REST APIs • PostgreSQL
 Git • Docker • Linux • CI/CD • Jira
 
 ### Data / Analytics
-Pandas • NumPy • BigQuery • Looker Studio :contentReference[oaicite:1]{index=1}
+Pandas • NumPy • BigQuery • Looker Studio
 
 ---
