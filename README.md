@@ -22,7 +22,7 @@ Recently I've been focused on:
 ## 🛠 Tech Stack
 
 ### Languages
-JavaScript • TypeScript • Python • SQL • C++ • Swift • R • MIPS Assembly
+JavaScript • TypeScript • Python • SQL • C++ • Swift
 
 ### Frontend
 React • Next.js • HTML • CSS
